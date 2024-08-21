@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+Which of thr software engineering is discuss as importance in the technology industry.
 
 Software engineering is like building a house. You need a strong foundation, a solid plan, and skilled workers to create a safe and functional home. In tech, software engineering ensures that software products are reliable, efficient, and meet customer needs. It's crucial for innovation, competitiveness, and economic growth - just like a well-built house is essential for a comfortable life!
 
