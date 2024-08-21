@@ -5,13 +5,13 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Which of thr software engineering is discuss as importance in the technology industry.
+Discuss software engineering as importance in the technology industry.
 
 Software engineering is like building a house. You need a strong foundation, a solid plan, and skilled workers to create a safe and functional home. In tech, software engineering ensures that software products are reliable, efficient, and meet customer needs. It's crucial for innovation, competitiveness, and economic growth - just like a well-built house is essential for a comfortable life!
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Answer: Waterfall Methodology (1970s): We started getting organized and breaking down development into steps. Agile Methodologies (1990s-2000s): We learned to be flexible and work together to deliver software faster and better. DevOps and CI/CD (2000s-present): We automated and streamlined our processes to release high-quality software quickly and reliably.
+Waterfall Methodology (1970s): We started getting organized and breaking down development into steps. Agile Methodologies (1990s-2000s): We learned to be flexible and work together to deliver software faster and better. DevOps and CI/CD (2000s-present): We automated and streamlined our processes to release high-quality software quickly and reliably.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
