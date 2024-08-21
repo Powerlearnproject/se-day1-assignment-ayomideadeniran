@@ -15,13 +15,13 @@ Answer: Waterfall Methodology (1970s): We started getting organized and breaking
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-Planning: Define project scope, goals, and deliverables.
-Analysis: Gather and document software requirements.
-Design: Create architectural and detailed designs.
-Implementation: Write and test code.
-Testing: Verify software meets requirements.
-Deployment: Release software to production.
-Maintenance: Update, fix, and refine software.
+1.Planning: Define project scope, goals, and deliverables.
+2.Analysis: Gather and document software requirements.
+3.Design: Create architectural and detailed designs.
+4.Implementation: Write and test code.
+5.Testing: Verify software meets requirements.
+6.Deployment: Release software to production.
+7.Maintenance: Update, fix, and refine software.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
@@ -40,7 +40,7 @@ Project Manager: Oversees project planning, execution, and delivery Sets goals, 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-Answer: IDEs (Integrated Development Environments) Boost productivity with coding tools and debugging Examples: Eclipse, Visual Studio, IntelliJ IDEA VCS (Version Control Systems) Track changes and collaborate on code Examples: Git, Subversion (SVN), Mercurial In short, IDEs help developers write and debug code efficiently, while VCS help teams manage and collaborate on code changes!
+IDEs (Integrated Development Environments) Boost productivity with coding tools and debugging Examples: Eclipse, Visual Studio, IntelliJ IDEA VCS (Version Control Systems) Track changes and collaborate on code Examples: Git, Subversion (SVN), Mercurial In short, IDEs help developers write and debug code efficiently, while VCS help teams manage and collaborate on code changes!
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
